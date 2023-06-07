@@ -6,8 +6,8 @@ This is a solution to the [Launch countdown timer challenge on Frontend Mentor](
 
 ## Table of contents
 
-- [Frontend Mentor - Launch countdown timer solution](#frontend-mentor---launch-countdown-timer-solution)
-  - [Table of contents](#table-of-contents)
+- [Frontend Mentor - Launch countdown timer solution](#frontend-mentor---launch-countdown-timer-solution)<!-- omit in toc -->
+  - [Table of contents ](#table-of-contents-)<!-- omit in toc -->
   - [Overview](#overview)
     - [The challenge](#the-challenge)
     - [Links](#links)
@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL on [Github](https://github.com/Catevika/Frontendmentor_countdown-timer_by_Catevika)
-- Live Site URL on [ Github pages](https://catevika.github.io/Frontendmentor_countdown-timer_by_Catevika/)
+- Live Site URL on [Github pages](https://catevika.github.io/Frontendmentor_countdown-timer_by_Catevika/)
 
 ## My process
 
@@ -51,13 +51,13 @@ Users should be able to:
 
 I would not have been able to create the flip javascript animation from scratch if I haven't found this amazing project. I updated the original to fit my markups in this project, added the "days" part, and it works like a charm!
 
-- [countdownFlipClock on youtube ](https://www.youtube.com/watch?v=x00P_1meF6c)
+- [countdownFlipClock on Youtube ](https://www.youtube.com/watch?v=x00P_1meF6c)
 - [countdownFlipClock on Codepen](https://codepen.io/codebubb/pen/rNvGaVq)
 
 ## Author
 
-- English porfolio - [Catevika Portfolio EN](catevika.github.io/Catevika_Portfolio-EN/)
-- French Portfolio - [Catevika Portfolio FR](catevika.github.io/Catevika_Portfolio-FR/)
+- Catevika's Portfolio in [English](https://catevika.github.io/Catevika_Portfolio-EN/)
+- Catevika's Portfolio in [French](https://catevika.github.io/Catevika_Portfolio-FR/)
 - Frontend Mentor - [@Catevika](https://www.frontendmentor.io/profile/Catevika)
 - Twitter - [@dominique_bello](https://twitter.com/dominique_bello)
 
