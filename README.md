@@ -1,22 +1,20 @@
-# Frontend Mentor - Launch countdown timer solution
+# Frontend Mentor - Launch countdown timer solution <!-- omit in toc -->
 
 ![](./images/screenshot.png)
 
 This is a solution to the [Launch countdown timer challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/launch-countdown-timer-N0XkGfyz-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+## Table of contents <!-- omit in toc -->
 
-- [Frontend Mentor - Launch countdown timer solution](#frontend-mentor---launch-countdown-timer-solution)<!-- omit in toc -->
-  - [Table of contents ](#table-of-contents-)<!-- omit in toc -->
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [Acknowledgments](#acknowledgments)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
