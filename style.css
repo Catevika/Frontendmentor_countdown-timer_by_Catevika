@@ -102,7 +102,7 @@ h1,
 
 .cards {
   display: block;
-  font-size: 5.5rem;
+  font-size: 5rem;
   height: 9rem;
 }
 
@@ -127,13 +127,13 @@ h1,
 }
 
 .card-element__top {
-  padding-top: 0.9rem;
+  padding-top: 1.1rem;
   color: var(--soft-red);
   background-color: var(--dark-less-desaturated-blue);
 }
 
 .card-element__bottom {
-  padding-bottom: 0.9rem;
+  padding-bottom: 1.1rem;
   line-height: 0;
   color: var(--soft-red);
   background-color: var(--dark-desaturated-blue);
@@ -170,7 +170,7 @@ h1,
 
 .card-element-flip__top {
   top: 0;
-  padding-top: 0.9rem;
+  padding-top: 1.1rem;
   color: var(--soft-red);
   background-color: var(--dark-less-desaturated-blue);
   transform-origin: bottom;
@@ -179,7 +179,7 @@ h1,
 .card-element-flip__bottom {
   bottom: 0;
   line-height: 0;
-  padding-bottom: 0.9rem;
+  padding-bottom: 1.1rem;
   color: var(--soft-red);
   background-color: var(--dark-desaturated-blue);
   border-top: 1px solid var(--very-black-blue);
