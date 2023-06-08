@@ -37,6 +37,7 @@ main {
 h1 {
   font-size: 2rem;
   text-align: center;
+  margin-top: -1rem;
 }
 
 h1,
@@ -101,8 +102,8 @@ h1,
 
 .cards {
   display: block;
-  font-size: 6rem;
-  height: 9.5rem;
+  font-size: 5.5rem;
+  height: 9rem;
 }
 
 @media(max-width:710px) {
@@ -126,13 +127,13 @@ h1,
 }
 
 .card-element__top {
-  padding-top: 0.8rem;
+  padding-top: 1rem;
   color: var(--soft-red);
   background-color: var(--dark-less-desaturated-blue);
 }
 
 .card-element__bottom {
-  padding-bottom: 0.8rem;
+  padding-bottom: 1rem;
   line-height: 0;
   color: var(--soft-red);
   background-color: var(--dark-desaturated-blue);
@@ -297,7 +298,7 @@ h1,
 }
 
 .text {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   margin-top: 20px;
   color: var(--grayish-blue);
   width: 100%;
