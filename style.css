@@ -35,14 +35,8 @@ main {
 }
 
 h1 {
-  font-size: 1.7rem;
-}
-
-@media(max-width:710px) {
-  h1 {
-    font-size: 2rem;
-    text-align: center;
-  }
+  font-size: 2rem;
+  text-align: center;
 }
 
 h1,
@@ -62,7 +56,7 @@ h1,
 
 .hill {
   bottom: 0;
-  height: 22.5%;
+  height: 25%;
   width: 100%;
 }
 
@@ -91,7 +85,7 @@ h1,
 .countdown-container {
   display: flex;
   justify-content: center;
-  margin-top: 6em;
+  margin-top: 6.5em;
   gap: 1.5rem;
 }
 
@@ -107,8 +101,8 @@ h1,
 
 .cards {
   display: block;
-  font-size: 4rem;
-  height: 7rem;
+  font-size: 6rem;
+  height: 9.5rem;
 }
 
 @media(max-width:710px) {
@@ -127,7 +121,7 @@ h1,
 .card-element__bottom {
   text-align: center;
   height: 50%;
-  width: 3.5rem;
+  width: 5rem;
   overflow: hidden;
 }
 
@@ -155,7 +149,7 @@ h1,
 .card-element-flip__bottom {
   position: absolute;
   height: 50%;
-  width: 3.5rem;
+  width: 5rem;
   text-align: center;
   overflow: hidden;
 }
@@ -211,14 +205,14 @@ h1,
   .cards:nth-of-type(odd) .card-element__bottom,
   .cards:nth-of-type(odd) .card-element-flip__top,
   .cards:nth-of-type(odd) .card-element-flip__bottom {
-    padding-left: 0.7rem;
+    padding-left: 1rem;
   }
 
   .cards:nth-of-type(even) .card-element__top,
   .cards:nth-of-type(even) .card-element__bottom,
   .cards:nth-of-type(even) .card-element-flip__top,
   .cards:nth-of-type(even) .card-element-flip__bottom {
-    padding-right: 0.7rem;
+    padding-right: 1rem;
   }
 }
 
@@ -303,7 +297,7 @@ h1,
 }
 
 .text {
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   margin-top: 20px;
   color: var(--grayish-blue);
   width: 100%;
@@ -318,7 +312,7 @@ h1,
 
 .socials {
   position: absolute;
-  bottom: 2rem;
+  bottom: 3rem;
 }
 
 .social-icon {

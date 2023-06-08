@@ -1,5 +1,3 @@
-// TODO: update readme + remove unnecessary files
-
 const date = new Date();
 date.setDate(date.getDate() + 14);
 
