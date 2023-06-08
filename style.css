@@ -37,7 +37,7 @@ main {
 h1 {
   font-size: 2rem;
   text-align: center;
-  margin-top: -1rem;
+  margin-top: -0.5rem;
 }
 
 h1,
@@ -86,7 +86,7 @@ h1,
 .countdown-container {
   display: flex;
   justify-content: center;
-  margin-top: 6.5em;
+  margin-top: 7.5em;
   gap: 1.5rem;
 }
 
@@ -298,7 +298,7 @@ h1,
 }
 
 .text {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   margin-top: 20px;
   color: var(--grayish-blue);
   width: 100%;
@@ -317,7 +317,7 @@ h1,
 }
 
 .social-icon {
-  margin: 20px;
+  margin: 20px 15px;
 }
 
 .social-icon path {
